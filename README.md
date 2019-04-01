@@ -8,13 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown #ToDo list
  # ToDo list
 
- - [Preview](https://mgrinko.github.io/fs_on_dec18_todo-list/)
- - [PullRequest](https://github.com/mgrinko/fs_on_dec18_todo-list/pull/1/files)
- ```
-Syntax highlighted code block
+ - [Preview](https://github.com/volodymyrkryvytskyy/ideal-repo/)
+ - [PullRequest](https://https://github.com/volodymyrkryvytskyy/ideal-repo/pull/1)
+ 
 
 # Header 1
 ## Header 2
