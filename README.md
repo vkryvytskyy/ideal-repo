@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
  # ToDo list
 
  - [Preview](https://github.com/volodymyrkryvytskyy/ideal-repo/)
- - [PullRequest](https://https://github.com/volodymyrkryvytskyy/ideal-repo/pull/1)
+ - [PullRequest](https://github.com/volodymyrkryvytskyy/ideal-repo/pull/1)
  
 
 # Header 1
